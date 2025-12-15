@@ -1,3 +1,4 @@
 # SDET_working_student
-in this Repository I am only discribing my activites at Deloitte GmbH as a working studen in IT section with focus on UI/API testing.
-currently busy with bachelor Thesis and job Search so still uploading... :)
+cFor data privacy reasons, I am only sharing my activities at Deloitte GmbH, where I worked as a student assistant in the IT department, focusing on UI and API testing.
+
+I am currently working on my bachelor’s thesis and exploring new job opportunities, so I am still updating my profile. 🙂
